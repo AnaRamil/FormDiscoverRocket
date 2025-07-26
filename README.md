@@ -9,4 +9,4 @@ HTML: Para a estrutura e conteúdo do formulário.
 CSS: Para a estilização e responsividade do layout.
 
 Como Visualizar
-Você pode acessar o formulário diretamente pelo GitHub Pages [clicando aqui](https://www.google.com/search?q=https://anaramil.github.io/FormDiscoverRocket/).
+Você pode acessar o formulário diretamente pelo GitHub Pages [clicando aqui]().
