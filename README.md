@@ -22,4 +22,4 @@
 
 ## Conheça o curso Discover da Rocket.
 
-**Link de exibição do projeto:** [(https://app.rocketseat.com.br/journey/discover)]
+**Link de exibição do projeto:** https://app.rocketseat.com.br/journey/discover
